@@ -6,7 +6,7 @@ import json
 import os
 
 # ←←←←← ТВОЙ ТОКЕН ←←←←←
-TOKEN = "7639593664:AAEEhJEy5BTOt827KRUsKh2LsmXBacOEY-E"
+TOKEN = ""
 
 DATA_FILE = "players.json"
 
