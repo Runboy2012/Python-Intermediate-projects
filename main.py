@@ -19,7 +19,8 @@ def behavior_at_home_ru():
     god_mode_stable = True  # Режим бога
     
     # Перебираем виды деятельности
-    for activity in ["общение", "звонки", "знакомства"]:
+communications = ["общение", "звонки", "знакомства"]
+    for activity in communications:
         if god_mode_stable:
             print(f"Я в режиме бога, когда занимаюсь {activity}")
         else:
